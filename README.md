@@ -51,14 +51,15 @@
 
 <br>
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilMirza1779&show_icons=true&theme=tokyonight&hide_border=true&v=1" height="150" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SahilMirza1779&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150" alt="Top Languages" />
-</div>
+### 🚀 Featured Projects & Repositories
+
+- 🏟️ **[Nexus Arena API](https://github.com/SahilMirza1779/NexusArena.API)**: A dynamic slot booking and management system built for sports arenas to handle reservations smoothly.
+- 🌙 **[Noor E Amal API](https://github.com/SahilMirza1779/NoorEAmal.API)**: A backend application designed to help users track and manage their daily activities.
+- 💻 **[My Portfolio](https://github.com/SahilMirza1779/sahil-portfolio)**: The source code for my modern, responsive personal portfolio built with React and Tailwind CSS.
 
 <br>
 
+### 🔥 My Coding Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMirza1779&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilMirza1779&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
